@@ -48,8 +48,13 @@ Krumme Lanke ↔ Dahlem-Dorf (U1 & U3)
 
 📊 Graph Analysis
 Check Connectivity: Determines if all stations are reachable from each other.
+
 Add Distance Attributes: Edge weights represent station-to-station distances in km.
+
 Visualization Features:
+
 Color-coded metro lines
+
 Highlighted transfer stations
+
 Labels using station initials
