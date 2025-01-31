@@ -46,15 +46,10 @@ Alexanderplatz ↔ Brandenburger Tor (U2 & U5)
 
 Krumme Lanke ↔ Dahlem-Dorf (U1 & U3)
 
-📊 Results
-Network Connectivity: The metro network is fully connected, meaning there is a path between any two stations.
-
-Visualization: The metro network is visualized with stations color-coded by line and distances between stations labeled on the edges.
-
-Key Insights:
-
-Transfer Stations: Alexanderplatz, Nollendorfplatz, and Krumme Lanke are critical hubs for transferring between lines.
-
-Longest Distance: The longest distance between consecutive stations is between Hönow and Tierpark on the U5 line (3.8 km).
-
-Shortest Distance: The shortest distance between consecutive stations is between Alexanderplatz and Mohrenstr. on the U2 line (1.1 km).
+📊 Graph Analysis
+Check Connectivity: Determines if all stations are reachable from each other.
+Add Distance Attributes: Edge weights represent station-to-station distances in km.
+Visualization Features:
+Color-coded metro lines
+Highlighted transfer stations
+Labels using station initials
